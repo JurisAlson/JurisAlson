@@ -18,7 +18,7 @@
 
 <h3 align="left">🖇️ Connect with Me:</h3>
 
-![Gmail](https://static-00.iconduck.com/assets.00/gmail-icon-1024x1024-09wrt8am.png)
+[![Gmail Badge](https://img.shields.io/badge/-jurisalson@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jurisalson@gmail.com)](mailto:jurisalson@gmail.com)
 
 <hr>
 
@@ -27,7 +27,7 @@
 ![C Programming](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=blue)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![HTML]
+![HTML]()
 ![CSS]
 
 

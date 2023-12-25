@@ -4,15 +4,11 @@
 <h6 align="right"> GIF taken from here:<br>https://www.pinterest.ph/pin/567523990538356835/</h6>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- The repositories here are mainly created because of the following: wanting to learn something, pet projects, and trying something out.
-
-- I’m currently a 2nd year BS-IT Student in **the best, ___if not one of the best___, FinTech Company here in the Philippines! 🟢**
+- I’m currently a **2nd year BS-IT Student in Mapua Malayan Colleges Laguna**
 
 - I’m currently learning **Web Development**
 
 - How to reach me **JurisAlson@gmail.com**
-
-- Fun fact **I love to play musical instruments!**
 
 <hr>
 
@@ -34,4 +30,11 @@
 <hr>
 
 <h3 align="left">👩‍💻 Pass Projects:</h3>
+
+- 4 pics in One Word Game
+
+- Casino Games
+
+- Python/C++ Games
+
 

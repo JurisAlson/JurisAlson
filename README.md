@@ -18,7 +18,7 @@
 
 <h3 align="left">🖇️ Connect with Me:</h3>
 
-![Gmail Badge]
+
 <hr>
 
 <h3 align="left">👩‍💻 Languages Known and Used:</h3>
@@ -28,3 +28,9 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![HTML]
 ![CSS]
+
+
+<hr>
+
+<h3 align="left">👩‍💻 Pass Projects:</h3>
+

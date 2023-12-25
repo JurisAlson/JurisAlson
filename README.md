@@ -6,7 +6,7 @@
 
 - The repositories here are mainly created because of the following: wanting to learn something, pet projects, and trying something out.
 
-- I’m currently working in **the best, ___if not one of the best___, FinTech Company here in the Philippines! 🟢**
+- I’m currently a 2nd year BS-IT Student in **the best, ___if not one of the best___, FinTech Company here in the Philippines! 🟢**
 
 - I’m currently learning **Web Development**
 
@@ -18,6 +18,7 @@
 
 <h3 align="left">🖇️ Connect with Me:</h3>
 
+![Gmail](https://mail.google.com/mail/u/0/#inbox)
 
 <hr>
 

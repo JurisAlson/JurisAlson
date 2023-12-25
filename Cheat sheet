@@ -1,0 +1,37 @@
+Git commands cheat sheet
+
+1.	Command: git clone
+  •	When to use: To copy a repository from an existing source.
+  •	Parameters: Repository URL (and optionally a directory name).
+    Example:
+    o	git clone https://github.com/user/repository.git
+
+2.	Command: git branch
+  •	When to use: To create, list, or delete branches.
+  •	Parameters: -d (delete), -m (move/rename).
+    Example:
+    o	git branch feature-branch   # Create a new branch
+    o	git branch -d feature-branch  # Delete a branch
+
+3.	Command: git reset
+  •	When to use: To unstage changes or move the HEAD pointer.
+  •	Parameters: --soft (move HEAD only), --hard (discard changes).
+    Example:
+    o	git reset --soft HEAD~1   # Undo the last commit and keep changes
+    o	git reset --soft HEAD~1 # Undo the last commit and keep changes 
+
+4.	Command: git stash
+  •	When to use: Temporarily save changes that you don't want to commit immediately.
+  •	Parameters: -u (stash untracked files), pop (apply and remove latest stash).
+  Example:
+    o	git stash save "WIP: work in progress"   # Save changes to stash
+    o	git stash pop    # Apply and remove the latest stash
+
+5.	Command: git bisect
+  •	When to use: To perform binary search to find the commit that introduced a bug.
+  •	Parameters: start (begin bisecting), good (mark a commit as good), bad (mark a commit as bad).
+  Example:
+    o	git bisect start
+    o	git bisect good v2.0
+    o	git bisect bad v2.5
+

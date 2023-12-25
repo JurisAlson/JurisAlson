@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=celsodasecond&label=Profile%20views&color=blueviolet&style=flat" alt="celsodasecond" /> </p>
 
 <h6 align="right"> GIF taken from here:<br>https://www.pinterest.ph/pin/567523990538356835/</h6>
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 - I’m currently a **2nd year BS-IT Student in Mapua Malayan Colleges Laguna**
 

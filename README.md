@@ -18,7 +18,7 @@
 
 <h3 align="left">🖇️ Connect with Me:</h3>
 
-![Gmail](https://mail.google.com/mail/u/0/#inbox)
+![Gmail](https://static-00.iconduck.com/assets.00/gmail-icon-1024x1024-09wrt8am.png)
 
 <hr>
 

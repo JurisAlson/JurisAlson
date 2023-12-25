@@ -1,8 +1,8 @@
 Git commands cheat sheet
 
 1.	Command: git clone
-  •	When to use: To copy a repository from an existing source.
-  •	Parameters: Repository URL (and optionally a directory name).
+  •When to use: To copy a repository from an existing source.
+  •Parameters: Repository URL (and optionally a directory name).
     Example:
     o	git clone https://github.com/user/repository.git
 

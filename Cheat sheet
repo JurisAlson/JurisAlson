@@ -7,8 +7,8 @@ Git commands cheat sheet
     o	git clone https://github.com/user/repository.git
 
 2. Command: git branch
-  •	When to use: To create, list, or delete branches.
-  •	Parameters: -d (delete), -m (move/rename).
+  • When to use: To create, list, or delete branches.
+  • Parameters: -d (delete), -m (move/rename).
     Example:
     o	git branch feature-branch   # Create a new branch
     o	git branch -d feature-branch  # Delete a branch
